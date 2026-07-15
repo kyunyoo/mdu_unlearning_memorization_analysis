@@ -1,0 +1,10 @@
+checkpoints/
+pretrained/
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+.hydra/
+*.log
+*.egg-info/
+.DS_Store
