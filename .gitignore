@@ -8,3 +8,8 @@ __pycache__/
 *.log
 *.egg-info/
 .DS_Store
+
+# dllm non-essential files
+dllm/assets/
+dllm/examples/
+dllm/lm-evaluation-harness/
